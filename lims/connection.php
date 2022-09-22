@@ -2,8 +2,8 @@
 
 //EDIT Your Database name, Username and Password here
 $servername = "localhost";
-$username   = "root";
-$password   = "root";
+$username   = "soundarya";
+$password   = "soundarya@123";
 $dbname     = "lims";
 
 
